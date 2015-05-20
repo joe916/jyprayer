@@ -1,7 +1,7 @@
 Jesus Youth Prayer App
 =======================
 
-Jesus Youth Prayer is a commonly used prayer for the Jesus Youth Catholic movement. This is a online version for easy access via. a browser.
+Jesus Youth Prayer is a commonly used prayer for the Jesus Youth Catholic movement. This is an online version for easy access via. any browser.
 
 Created using the jQuery mobile.
 
